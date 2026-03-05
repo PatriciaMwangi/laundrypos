@@ -3,3 +3,5 @@ flask-sqlalchemy
 flask-cors
 mysql-connector-python
 gunicorn
+flask-bcrypt
+python-dotenv
