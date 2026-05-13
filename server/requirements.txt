@@ -5,3 +5,5 @@ mysql-connector-python
 gunicorn
 flask-bcrypt
 python-dotenv
+pymysql
+cryptography
